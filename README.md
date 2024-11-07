@@ -1,7 +1,7 @@
 # LiFi-based-communication-between-two-stm32-boards
 
 
-# OBJECTIVE: 
+## OBJECTIVE: 
 This project aims to build a light-based communication system using a laser module to transmit data patterns to a receiver equipped with an LDR (Light Dependent Resistor) module and LEDs. The goal is to send patterns as digital pulses and synchronize the transmitter and receiver systems for accurate data transfer.
 # CONCEPTS USED: 
 LiFi /n
