@@ -21,7 +21,7 @@ LiFi <br/>
 •	LED Indicators: LEDs are connected to GPIO pins PA3-PA6 to represent each bit in the received pattern.
 
 ## Working Video
-[![19CSE303 | Wireless Communication using LiFi | Group 15](https://i9.ytimg.com/vi/TGA5QlxO-nM/mqdefault.jpg?sqp=CICJyLkG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGCogXyhlMA8=&rs=AOn4CLDkvAOuAPJJTiirA0nVo8pYbM6Ljw)](https://youtu.be/TGA5QlxO-nM)
+[![19CSE303 | Wireless Communication using LiFi | Group 15](https://i9.ytimg.com/vi/TGA5QlxO-nM/mqdefault.jpg?sqp=CPiHzLkG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGCogXyhlMA8=&rs=AOn4CLCRCKl8KGxoR8nvw6_8npj-s4nfdw)](https://youtu.be/TGA5QlxO-nM)
 
 ## GROUP MEMBERS
 •	CB.EN.U4CSE22412 – Charu Nethra<br/>
